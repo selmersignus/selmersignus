@@ -1,18 +1,4 @@
 
-# About Me
-
-**selmersignus/selmersignus** is a ★ _special_ ★ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🐙 I’m currently working on relearning github to host a workshop that will teach students github basics.
-- 💻 I’m currently learning C++.
-- 🌫️ I’m looking to collaborate on ... nothing at the moment.
-- 🌫️ I’m looking for help with ... again, nothing.
-- 🗣️ Ask me about AI.
-- ❔ How to reach me: ... it's a mystery...
-- 😄 Pronouns: she/they.
-- ⚡ Fun fact: I've been playing Disco Elysium recently.
 <!--
 <picture>
   <source media="(prefers-color-scheme: dark)" img alt="Shows white mokona when user is in dark  mode." srcset="![whitemokona](https://github.com/user-attachments/assets/b056eb52-4949-472a-a873-251e92f429c4)">
@@ -25,3 +11,8 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
+
+
+# About Me
+
+Hi, I'm Maya. I'm currently learning C++. At the time of typing this, I'm re-learning github to host a workshop as the president of the Girls Who Code club because it's important to know how to use this:)
